@@ -1,18 +1,20 @@
 import React from 'react';
 import Header from './Header';
 import styled from 'styled-components';
-
+import Badge from './Badge';
 const FirstSection = () => {
   return (
     <Container>
         <Header/>
+        <Badge/>
     </Container>
   )
 }
 
 const Container = styled.div`
-width:1440px;
-height:1205px;
-border:1px solid green;
-`
+  width: 1440px;
+  height: 1205px;
+  border: 1px solid green;
+ 
+`;
 export default FirstSection
