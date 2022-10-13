@@ -29,6 +29,11 @@ const Header = () => {
 const Container = styled.div`
   width: 1440px;
   border: 1px solid red;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(247, 248, 249, 0) 0%,
+    #f7f8f9 100%
+  );
 `;
 const Navbar = styled.div`
 //  width:90%;
