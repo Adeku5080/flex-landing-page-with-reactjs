@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flex-landing-page-with-reactjs/static/css/main.d6bff305.css",
+    "main.js": "/flex-landing-page-with-reactjs/static/js/main.f17c6de7.js",
+    "static/media/inter-all-400-normal.woff": "/flex-landing-page-with-reactjs/static/media/inter-all-400-normal.8c804432e8c67741aac0.woff",
+    "static/media/poppins-all-400-normal.woff": "/flex-landing-page-with-reactjs/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/inter-latin-ext-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-latin-ext-400-normal.3a7a76525d98d25962eb.woff2",
+    "static/media/inter-latin-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-latin-400-normal.be7cb18dc7caf47cf7e9.woff2",
+    "static/media/inter-cyrillic-ext-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-cyrillic-ext-400-normal.fcc125c4fef4b94c8b13.woff2",
+    "static/media/inter-greek-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-greek-400-normal.0278a49f9007106a0bf4.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/inter-cyrillic-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-cyrillic-400-normal.8684fef6e6411779f0b0.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "static/media/inter-greek-ext-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-greek-ext-400-normal.3f642a92b6e57b3a4b84.woff2",
+    "static/media/inter-vietnamese-400-normal.woff2": "/flex-landing-page-with-reactjs/static/media/inter-vietnamese-400-normal.789afb71d327988e2fc8.woff2",
+    "index.html": "/flex-landing-page-with-reactjs/index.html",
+    "main.d6bff305.css.map": "/flex-landing-page-with-reactjs/static/css/main.d6bff305.css.map",
+    "main.f17c6de7.js.map": "/flex-landing-page-with-reactjs/static/js/main.f17c6de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bff305.css",
+    "static/js/main.f17c6de7.js"
+  ]
+}
