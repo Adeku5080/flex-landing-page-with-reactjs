@@ -3,12 +3,20 @@ import styled from "styled-components";
 import ClientBadge from "./ClientBadge";
 import ThirdSectionTxt from "./ThirdSectionTxt";
 import ThirdSectionPara from "./ThirdSectionPara";
+import Jiggle from "../trustedcompanies/Jiggle";
+import Symtric from "../trustedcompanies/Symtric";
+import Resecurb from "../trustedcompanies/Resecurb";
+import Wishelp from '../trustedcompanies/Wishelp';
 
 const ThirdSection = () => {
   return <Container>
     <ClientBadge/>
     <ThirdSectionTxt/>
     <ThirdSectionPara/>
+    <Jiggle/>
+    <Symtric/>
+    <Resecurb/>
+    <Wishelp/>
 
   </Container>;
 };

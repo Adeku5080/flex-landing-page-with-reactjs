@@ -6,7 +6,8 @@ const VideoDemo = () => {
   return <Container>
     <Ellipse/>
   </Container>;
-};
+
+}; 
 
 const Container = styled.div`
   position: absolute;
@@ -16,9 +17,9 @@ const Container = styled.div`
   width: 944px;
   height: 531px;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url(e1dc5a28f306ea106d425b5ae9945603.jpg);
+    url();
   border-radius: 24px;
-  z-index:10;
+  z-index: 10;
 `;
 
 export default VideoDemo;

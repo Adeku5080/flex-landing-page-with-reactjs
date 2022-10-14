@@ -3,12 +3,16 @@ import styled from "styled-components";
 import Quotes from "./Quotes";
 import FourthSectionTxt from "./FourthSectionTxt";
 import Avatar from "./Avatar";
+import Name from "./Name";
+import NameDescription from "./NameDescription";
 
 const FourthSection = () => {
   return <Container>
     <Quotes/>
     <FourthSectionTxt/>
     <Avatar/>
+    <Name/>
+    <NameDescription/>
 
   </Container>;
 };
