@@ -1,11 +1,11 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from "styled-components"
 
-const SixthSectionFlexIcon = () => {
+const FlexIcon = () => {
   return (
     <Container>
       <svg
-      className="first-svg"
+        className="first-svg"
         width="24"
         height="8"
         viewBox="0 0 24 8"
@@ -19,7 +19,7 @@ const SixthSectionFlexIcon = () => {
       </svg>
 
       <svg
-      className="second-svg"
+        className="second-svg"
         width="24"
         height="8"
         viewBox="0 0 24 8"
@@ -33,7 +33,7 @@ const SixthSectionFlexIcon = () => {
       </svg>
 
       <svg
-      className="last-svg"
+        className="last-svg"
         width="24"
         height="8"
         viewBox="0 0 24 8"
@@ -47,16 +47,18 @@ const SixthSectionFlexIcon = () => {
       </svg>
     </Container>
   );
-};
+}
 const Container = styled.div`
-  // border: 1px solid red;
-  top: 93.39px;
-  left: 152.05px;
-  right: 1260.26px;
-  bottom: 446.92px;
-  position: absolute;
-  width: 19.19px;
-  height: 19.98px;
-  transform: rotateX(180deg);
-`;
-export default SixthSectionFlexIcon;
+//  border:1px solid red;
+ width:19.19px;
+ height:19.98px;
+ position:absolute;
+ left:90.05px;
+ top:29.43px;
+ bottom:713.92
+ display:flex;
+ flex-direction:column;
+ justify-content:space-between;
+ transform:rotateX(180deg);
+`
+export default FlexIcon

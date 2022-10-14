@@ -10,8 +10,7 @@ const Container = styled.div`
   top: 126px;
   left: 180px;
   right: 179px;
-  border: 1px solid green;
-  //   font-family: "Poppins";
+   font-family: "Poppins";
   font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;

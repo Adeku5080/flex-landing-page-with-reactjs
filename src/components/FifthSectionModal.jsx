@@ -23,9 +23,9 @@ const Container = styled.div`
   right: 150px;
   bottom: 65px;
   width: 1140px;
-  height: 289px;
-  border: 1px solid red;
+  height: 290px;
   z-index: 10;
+  border-radius:6px;
 
   background: radial-gradient(
     50% 50% at 50% 50%,

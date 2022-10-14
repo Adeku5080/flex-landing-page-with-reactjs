@@ -11,7 +11,7 @@ const Container = styled.div`
   left: 98px;
   bottom: 139px;
   right: 586px;
-  border: 1px solid blue;
+  // border: 1px solid blue;
   width: 456px;
   height: 88px;
   font-style: normal;

@@ -25,7 +25,7 @@ const Container = styled.div`
 position:relative;
   height: 498px;
   width: 1440px;
-  border: 1px solid blue;
+  // border: 1px solid blue;
   background: radial-gradient(
     50% 50% at 50% 50%,
     rgba(247, 248, 249, 0) 0%,

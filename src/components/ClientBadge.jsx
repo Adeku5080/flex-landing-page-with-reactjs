@@ -24,9 +24,9 @@ const Container = styled.div`
   background: #dcfce7;
   box-shadow: 0px 1px 2px rgba(105, 81, 255, 0.05);
   border-radius: 36px;
-
-  
-    // font-family: "Poppins";
+  display:flex;
+  align-items:center;
+  justify-content:center;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;

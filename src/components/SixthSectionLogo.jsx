@@ -15,6 +15,9 @@ const Container = styled.div`
   width: 51.84px;
   height: 19.58px;
   color:#ffffff;
+   font-family:"Inter"
+  line-heigth:16px;
+  font-weight:900;
 `;
 
 export default SixthSectionLogo

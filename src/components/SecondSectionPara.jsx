@@ -19,7 +19,7 @@ right;260px;
 top:188px;
 width: 919px;
 height: 60px;
-border:1px solid blue;
+// border:1px solid blue;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;

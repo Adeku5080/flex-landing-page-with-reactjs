@@ -10,7 +10,7 @@ const SecondSectionTxt = () => {
 };
 
 const Container = styled.div`
-  border: 1px solid red;
+  // border: 1px solid red;
   position: absolute;
   top: 128px;
   left: 297px;

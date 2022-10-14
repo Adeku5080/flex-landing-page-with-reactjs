@@ -58,7 +58,7 @@ const SecondSectionContainer = styled.div`
 position:relative;
   width: 1440px;
   height: 940px;
-  border:1px solid red;
+  // border:1px solid red;
   background: radial-gradient(
     50% 50% at 50% 50%,
     rgba(247, 248, 249, 0) 0%,

@@ -14,7 +14,7 @@ const Container = styled.div`
   width: 178px;
   height: 32px;
   text-align: center;
-  border: 1px solid red;
+  // border: 1px solid red;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-size: 24px;

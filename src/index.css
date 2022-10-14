@@ -13,7 +13,7 @@ code {
 }
 
 .message-icon{
- border:1px solid red;
+ /* border:1px solid red; */
  position: absolute;
  top:23.63px;
  bottom: 20.37px;
@@ -22,7 +22,7 @@ code {
 }
 
 .chart{
-   border:1px solid red;
+   /* border:1px solid red; */
  position: absolute;
  top:23.63px;
  bottom: 20.37px;
@@ -31,7 +31,7 @@ code {
 }
 
 .person{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   position: absolute;
   left: 21px;
 right: 21px;
@@ -43,7 +43,7 @@ height:17px;
 }
 
 .pencil{
-   border: 1px solid red;
+   /* border: 1px solid red; */
   position: absolute;
   left: 22px;
 right: 22px;
@@ -54,7 +54,7 @@ height:20.01px;
 }
 
 .grid{
-   border: 1px solid red;
+   /* border: 1px solid red; */
   position: absolute;
   left: 22px;
 right: 22px;
@@ -65,7 +65,7 @@ height:20px;
 }
 
 .controls{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   position: absolute;
   left: 22px;
 right: 22px;
@@ -73,4 +73,34 @@ top: 22px;
 bottom: 22px;
 width:20px;
 height:20px;
+}
+
+.facebook{
+  border:1px solid red
+}
+
+.last-svg{
+  width:11.22px;
+  height:11.96px;
+  /* border: 1px solid red; */
+  position: absolute;
+  padding:3p 3px;
+  margin-bottom:2px;
+}
+.first-svg{
+  width: 20.1px;
+  height:19.3px;
+  position: absolute;
+  top:0px;
+    margin-bottom:5px;
+
+  
+}
+
+.second-svg{
+  width:19.19px;
+  height:19.98px;
+  position: absolute;
+  top:5px;
+    margin-bottom:2px;
 }

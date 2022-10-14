@@ -16,6 +16,7 @@ const Container = styled.div`
   border: 1px solid green;
   width: 88px;
   height: 88px;
-  border-radius:50%;
+  border-radius: 50%;
+  background-image:url("Ellipse.png");
 `;
 export default Avatar

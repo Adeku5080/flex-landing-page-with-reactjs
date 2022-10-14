@@ -18,7 +18,7 @@ const FifthSection = () => {
 const Container = styled.div`
 height:418px;
 width:1440px;
-border:1px solid red;
+// border:1px solid red;
 position:relative
 //  z-index:-1;
 `

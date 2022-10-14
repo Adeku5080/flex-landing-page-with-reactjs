@@ -16,7 +16,7 @@ const Container = styled.div`
   left: 231px;
   right: 232px;
   bottom: 376px;
-  border: 1px solid blue;
+  // border: 1px solid blue;
   width: 977px;
   height: 180px;
   font-family: "Poppins", sans-serif;

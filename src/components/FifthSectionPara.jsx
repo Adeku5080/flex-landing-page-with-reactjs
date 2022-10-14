@@ -14,7 +14,8 @@ const Container = styled.div`
   left: 98px;
   bottom: 63px;
   right: 586px;
-  border: 1px solid green;
+  top:166px;
+  // border: 1px solid green;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;

@@ -5,8 +5,9 @@ import Header from "./Header";
 import Badge from "./Badge";
 import SmallBusinessTxt from "./SmallBusinessTxt";
 import SmallBusinessPara from "./SmallBusinessPara";
-import DemoAndSignup from "./DemoAndSignup";
+import Demo from "./Demo";
 import VideoDemo from "./VideoDemo";
+import SignUp from './SignUp';
 
 const FirstSectionMain = () => {
   return (
@@ -15,7 +16,8 @@ const FirstSectionMain = () => {
       <Badge />
       <SmallBusinessTxt />
       <SmallBusinessPara />
-      <DemoAndSignup />
+      <Demo />
+      <SignUp/>
       <VideoDemo />
     </Container>
   );

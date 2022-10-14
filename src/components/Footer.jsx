@@ -1,19 +1,22 @@
 import React from 'react'
 import styled from 'styled-components'
+import Facebook from './footerlinks/Facebook';
+import Instagram from './footerlinks/Instagram';
+import Twitter from './footerlinks/Twitter';
 import RightsReserved from './RightsReserved';
-import {ReactComponent as Facebook} from "../assets/icons/facebook-brands.svg"
-import { ReactComponent as Github } from "../assets/icons/github-brands.svg";
-import { ReactComponent as Twitter } from "../assets/icons/twitter-brands.svg";
-import { ReactComponent as Linkedin } from "../assets/icons/linkedin.svg";
+import Github from './footerlinks/Github';
+import Linkedin from './footerlinks/Linkedin';
+
 
 const Footer = () => {
   return (
     <Container>
       <RightsReserved />
-      <Facebook width={25} height={25} />
-      <Twitter width={25} height={25} />
-      <Github width={25} height={25} />
-      <Linkedin width={25} height={25} />
+        <Facebook/>
+        <Twitter/>
+        <Instagram/>
+        <Github/>
+        <Linkedin/>
     </Container>
   );
 }

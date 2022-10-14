@@ -5,6 +5,9 @@ import FourthSectionTxt from "./FourthSectionTxt";
 import Avatar from "./Avatar";
 import Name from "./Name";
 import NameDescription from "./NameDescription";
+import SmallCircle from "./SmallCircle";
+import SmallCircleTwo from "./SmallCircleTwo";
+import SmallCircleThree from "./SmallCircleThree";
 
 const FourthSection = () => {
   return <Container>
@@ -13,6 +16,9 @@ const FourthSection = () => {
     <Avatar/>
     <Name/>
     <NameDescription/>
+    <SmallCircle/>
+    <SmallCircleTwo/>
+    <SmallCircleThree/>
 
   </Container>;
 };
